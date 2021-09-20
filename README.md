@@ -1,5 +1,4 @@
 # mahalogin
 this is first file
-first commit
-Hello
+1st commit
 
